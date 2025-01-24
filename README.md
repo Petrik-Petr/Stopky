@@ -1,4 +1,4 @@
-
+Jděte do main.ts a zkopírujte kód, poté vložte do makecode
 > Open this page at [https://petrik-petr.github.io/stopky/](https://petrik-petr.github.io/stopky/)
 
 ## Use as Extension
